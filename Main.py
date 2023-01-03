@@ -57,7 +57,7 @@ import numpy
 System_name = "JARVIS"
 ##########################################################################################
 ######################################### User Information ###############################
-user = "Adnan"
+user = input("Enter Your name: ")
 ################
 try:# location finder in try
     ipAdd = requests.get('https://api.ipify.org').text
