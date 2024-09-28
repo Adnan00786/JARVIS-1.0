@@ -1,5 +1,8 @@
 # Jarvis Version 1.0
 
+![GUI](https://github.com/user-attachments/assets/66d377e0-70ef-4ca5-803f-097f117d44e3)
+
+
 Welcome to the Jarvis Version 1.0 project! This is a demonstration of an AI assistant that showcases various functionalities. 
 
 ## Demo
